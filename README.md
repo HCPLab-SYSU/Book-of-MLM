@@ -8,6 +8,8 @@
 全书共 5 章，第 1 章深入探讨最具代表性的大模型结构，第 2 章深度剖析多模态大模型的核心技术，第 3 章介绍多个具有代表性的多模态大模型，第 4 章深入分析视觉问答、 AIGC 和具身智能这 3 个典型应用，第 5 章探讨实现通用人工智能的可行思路。
 本书不仅适合高校相关专业高年级本科生和研究生作为教材使用，更是各类 IT 从业者的必备参考之作。
 
+## [目录电子版](https://github.com/HCPLab-SYSU/Book-of-MLM/blob/main/Catalogue.pdf)
+
 ## [参考文献电子版](https://github.com/HCPLab-SYSU/Book-of-MLM/blob/main/Reference.pdf)
 
 ### 更多电子资源敬请期待！
