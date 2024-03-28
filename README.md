@@ -13,6 +13,10 @@
 
 ## [参考文献电子版](https://github.com/HCPLab-SYSU/Book-of-MLM/blob/main/Reference.pdf)
 
+## [视觉-语言因果推理开源框架CausalVLR](https://github.com/HCPLab-SYSU/CausalVLR)
+
+## [HCP-Diffusion统一代码框架](https://github.com/IrisRainbowNeko/HCP-Diffusion)
+
 ### 更多电子资源敬请期待！
 
 
