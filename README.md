@@ -1,7 +1,7 @@
 # 《多模态大模型：新一代人工智能技术范式》在线资源
 
 <div align=center>
-<img src="Cover.jpg"  width="100"/>
+<img src="Cover.jpg"  width="500"/>
 </div>
 
 ## 本书介绍
