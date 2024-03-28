@@ -10,4 +10,6 @@
 
 ## [参考文献电子版](https://github.com/HCPLab-SYSU/Book-of-MLM/blob/main/Reference.pdf)
 
+## 更多电子资源敬请期待！
+
 
