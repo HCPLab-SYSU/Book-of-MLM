@@ -28,7 +28,8 @@
 
 ## [HCP-Diffusion统一代码框架](https://github.com/IrisRainbowNeko/HCP-Diffusion)
 
-### 更多电子资源敬请期待！
+### PPT课件
+正在整理，敬请期待！
 
 ## 引用信息
 ```
@@ -41,5 +42,8 @@
     isbn = {978-7-121-47547-4},
     url = {https://hcplab-sysu.github.io/Book-of-MLM/},
 }
-``` 
+```
+## 反馈意见
+如果您对本书内容有任何意见以及建议，请通过[GitHub Issues](https://github.com/HCPLab-SYSU/Book-of-MLM/issues)页面进行反馈。
+
 
