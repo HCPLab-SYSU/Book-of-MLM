@@ -28,7 +28,7 @@
 
 ## [HCP-Diffusion统一代码框架](https://github.com/IrisRainbowNeko/HCP-Diffusion)
 
-### PPT课件（整理中，敬请期待！）
+## PPT课件（整理中，敬请期待！）
 
 第一章 大模型全家桶      
 
