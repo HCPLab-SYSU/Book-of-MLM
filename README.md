@@ -19,14 +19,17 @@
 </div>
 林倞，人工智能领域国际著名学者（IEEE Fellow、IAPR Fellow、IET Fellow）、鹏城实验室多智能体与具身智能研究所所长、中山大学二级教授、国家杰出青年基金获得者、国家人工智能重大专项首席科学家。
 
+## 目录
+(https://github.com/HCPLab-SYSU/Book-of-MLM/blob/main/Catalogue.pdf)
 
-## [目录电子版](https://github.com/HCPLab-SYSU/Book-of-MLM/blob/main/Catalogue.pdf)
+## 参考文献
+(https://github.com/HCPLab-SYSU/Book-of-MLM/blob/main/Reference.pdf)
 
-## [参考文献电子版](https://github.com/HCPLab-SYSU/Book-of-MLM/blob/main/Reference.pdf)
+## 视觉-语言因果推理开源框架CausalVLR
+[CausalVLR](https://github.com/HCPLab-SYSU/CausalVLR)
 
-## [视觉-语言因果推理开源框架CausalVLR](https://github.com/HCPLab-SYSU/CausalVLR)
-
-## [HCP-Diffusion统一代码框架](https://github.com/IrisRainbowNeko/HCP-Diffusion)
+## HCP-Diffusion统一代码框架
+[HCP-Diffusion](https://github.com/IrisRainbowNeko/HCP-Diffusion)
 
 ## PPT课件（整理中，敬请期待！）
 
