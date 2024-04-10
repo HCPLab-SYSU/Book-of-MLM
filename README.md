@@ -13,12 +13,12 @@
 <div align=center>
 <img src="YangLiu.jpg"  width="350"/>
 </div>
-### 刘阳， 中山大学计算机学院副研究员，中山大学人机物智能融合实验室（HCP-Lab）骨干成员
+###刘阳， 中山大学计算机学院副研究员，中山大学人机物智能融合实验室（HCP-Lab）骨干成员
 
 <div align=center>
 <img src="LiangLin.jpg"  width="350"/>
 </div>
-### 林倞，人工智能领域国际著名学者（IEEE Fellow、IAPR Fellow、IET Fellow）、鹏城实验室多智能体与具身智能研究所所长、中山大学二级教授、国家杰出青年基金获得者、国家人工智能重大专项首席科学家
+###林倞，人工智能领域国际著名学者（IEEE Fellow、IAPR Fellow、IET Fellow）、鹏城实验室多智能体与具身智能研究所所长、中山大学二级教授、国家杰出青年基金获得者、国家人工智能重大专项首席科学家
 
 
 ## [目录电子版](https://github.com/HCPLab-SYSU/Book-of-MLM/blob/main/Catalogue.pdf)
