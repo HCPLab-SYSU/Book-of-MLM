@@ -10,11 +10,15 @@
 本书不仅适合高校相关专业高年级本科生和研究生作为教材使用，更是各类 IT 从业者的必备参考之作。在教学课时安排上，本书可以满足 32 ∼ 56 学时的教学安排。第 5 章多模态大模型迈向AGI 是近年人工智能领域的研究热点，涉及模型鲁棒性、可解释性、可信性、因果推理、世界模型、具身智能与多智能体等多个技术领域，需要读者花更多的时间在相关任务的实践中。
 
 ## 作者介绍
-![Image](YangLiu.jpg)
-###刘阳###， 中山大学计算机学院副研究员，中山大学人机物智能融合实验室（HCP-Lab）骨干成员
+<div align=center>
+<img src="YangLiu.jpg"  width="350"/>
+</div>
+### 刘阳 ###， 中山大学计算机学院副研究员，中山大学人机物智能融合实验室（HCP-Lab）骨干成员
 
-![Image](LiangLin.jpg)
-###林倞###，人工智能领域国际著名学者（IEEE Fellow、IAPR Fellow、IET Fellow）、鹏城实验室多智能体与具身智能研究所所长、中山大学二级教授、国家杰出青年基金获得者、国家人工智能重大专项首席科学家
+<div align=center>
+<img src="LiangLin.jpg"  width="350"/>
+</div>
+### 林倞 ###，人工智能领域国际著名学者（IEEE Fellow、IAPR Fellow、IET Fellow）、鹏城实验室多智能体与具身智能研究所所长、中山大学二级教授、国家杰出青年基金获得者、国家人工智能重大专项首席科学家
 
 
 ## [目录电子版](https://github.com/HCPLab-SYSU/Book-of-MLM/blob/main/Catalogue.pdf)
