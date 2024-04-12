@@ -31,9 +31,9 @@
 ## HCP-Diffusion统一代码框架
 [HCP-Diffusion](https://github.com/IrisRainbowNeko/HCP-Diffusion)
 
-## PPT课件（整理中，敬请期待！）
+## PPT课件（第一章已发布，其余章节不断完善和整理中，敬请期待！）
 
-第一章 大模型全家桶      
+[第一章 大模型全家桶](https://raw.githubusercontent.com/HCPLab-SYSU/Book-of-MLM/main/chapter1.pptx)      
 
 第二章 多模态大模型核心技术     
 
@@ -51,7 +51,6 @@
     publisher = {电子工业出版社},
     year = {2024},
     author = {刘阳、林倞},
-    address = {广州},
     isbn = {978-7-121-47547-4},
     url = {https://hcplab-sysu.github.io/Book-of-MLM/},
 }
