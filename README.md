@@ -1,5 +1,5 @@
 <div align=center>
-<img src="Cover.jpg"  width="350"/>
+<img src="Images/Cover.jpg"  width="350"/>
 </div>
 
 ## 本书介绍
@@ -9,23 +9,23 @@
 
 ## 作者介绍
 <div align=center>
-<img src="YangLiu.jpg"  width="200"/>
+<img src="Images/YangLiu.jpg"  width="200"/>
 </div>
 刘阳， 中山大学计算机学院副研究员，中山大学人机物智能融合实验室（HCP-Lab）骨干成员。
 <div align=center>
-<img src="LiangLin.jpg"  width="200"/>
+<img src="Images/LiangLin.jpg"  width="200"/>
 </div>
 林倞，人工智能领域国际著名学者（IEEE Fellow、IAPR Fellow、IET Fellow）、鹏城实验室多智能体与具身智能研究所所长、中山大学二级教授、国家杰出青年科学基金获得者、国家人工智能重大专项首席科学家。
 
 ## 目录
-[全书目录电子版](https://raw.githubusercontent.com/HCPLab-SYSU/Book-of-MLM/main/Catalogue.pdf)
+[全书目录电子版](https://raw.githubusercontent.com/HCPLab-SYSU/Book-of-MLM/main/Resources/Catalogue.pdf)
 
 ## 参考文献
-[全书参考文献](https://raw.githubusercontent.com/HCPLab-SYSU/Book-of-MLM/main/Reference.pdf)
+[全书参考文献](https://raw.githubusercontent.com/HCPLab-SYSU/Book-of-MLM/main/Resources/Reference.pdf)
 
 ## PPT课件（第一章已发布，其余章节整理中，敬请期待！）
 
-[第一章 大模型全家桶](https://raw.githubusercontent.com/HCPLab-SYSU/Book-of-MLM/main/chapter1.pptx)      
+[第一章 大模型全家桶](https://raw.githubusercontent.com/HCPLab-SYSU/Book-of-MLM/main/Resources/chapter1.pptx)      
 
 第二章 多模态大模型核心技术     
 
