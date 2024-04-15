@@ -1,5 +1,5 @@
 <div align=center>
-<img src="Images/Cover.jpg"  width="350"/>
+<img src="Images/Cover.jpg"  width="400"/>
 </div>
 
 ## 本书介绍
@@ -8,11 +8,11 @@
 本书不仅适合高校相关专业高年级本科生和研究生作为教材使用，更是各类 IT 从业者的必备参考之作。在教学课时安排上，本书可以满足 32 ∼ 56 学时的教学安排。第 5 章多模态大模型迈向AGI 是近年人工智能领域的研究热点，涉及模型鲁棒性、可解释性、可信性、因果推理、世界模型、具身智能与多智能体等多个技术领域，需要读者花更多的时间在相关任务的实践中。
 
 <div align=center>
-<img src="Images/Highlights.jpg"  width="350"/>
+<img src="Images/Highlights.jpg"  width="500"/>
 </div>
 
 <div align=center>
-<img src="Images/Contents.jpg"  width="350"/>
+<img src="Images/Contents.jpg"  width="500"/>
 </div>
 
 
