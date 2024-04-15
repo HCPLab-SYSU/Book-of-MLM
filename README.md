@@ -25,7 +25,7 @@
 ## 参考文献
 [全书参考文献](https://raw.githubusercontent.com/HCPLab-SYSU/Book-of-MLM/main/Reference.pdf)
 
-## PPT课件（第一章已发布，其余章节不断完善和整理中，敬请期待！）
+## PPT课件（第一章已发布，其余章节整理中，敬请期待！）
 
 [第一章 大模型全家桶](https://raw.githubusercontent.com/HCPLab-SYSU/Book-of-MLM/main/chapter1.pptx)      
 
