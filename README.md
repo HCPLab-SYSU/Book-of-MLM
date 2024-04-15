@@ -1,5 +1,3 @@
-# 《多模态大模型：新一代人工智能技术范式》
-
 <div align=center>
 <img src="Cover.jpg"  width="350"/>
 </div>
