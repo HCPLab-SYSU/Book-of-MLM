@@ -25,12 +25,6 @@
 ## 参考文献
 [全书参考文献](https://raw.githubusercontent.com/HCPLab-SYSU/Book-of-MLM/main/Reference.pdf)
 
-## 视觉-语言因果推理开源框架CausalVLR
-[CausalVLR](https://github.com/HCPLab-SYSU/CausalVLR)
-
-## HCP-Diffusion统一代码框架
-[HCP-Diffusion](https://github.com/IrisRainbowNeko/HCP-Diffusion)
-
 ## PPT课件（第一章已发布，其余章节不断完善和整理中，敬请期待！）
 
 [第一章 大模型全家桶](https://raw.githubusercontent.com/HCPLab-SYSU/Book-of-MLM/main/chapter1.pptx)      
@@ -43,6 +37,11 @@
 
 第五章 多模态大模型迈向AGI   
 
+## 其他资源：视觉-语言因果推理开源框架CausalVLR
+[CausalVLR](https://github.com/HCPLab-SYSU/CausalVLR)
+
+## 其他资源：HCP-Diffusion统一代码框架
+[HCP-Diffusion](https://github.com/IrisRainbowNeko/HCP-Diffusion)
 
 ## 引用信息
 ```
@@ -57,5 +56,7 @@
 ```
 ## 反馈意见
 如果您对本书内容有任何意见以及建议，请通过[GitHub Issues](https://github.com/HCPLab-SYSU/Book-of-MLM/issues)页面进行反馈。
+
+## 欢迎访问[中山大学人机物智能融合实验室] (https://www.sysu-hcp.net)
 
 
