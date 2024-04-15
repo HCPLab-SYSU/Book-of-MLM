@@ -57,6 +57,6 @@
 ## 反馈意见
 如果您对本书内容有任何意见以及建议，请通过[GitHub Issues](https://github.com/HCPLab-SYSU/Book-of-MLM/issues)页面进行反馈。
 
-## 欢迎访问[中山大学人机物智能融合实验室] (https://www.sysu-hcp.net)
+## 欢迎访问[中山大学人机物智能融合实验室](https://www.sysu-hcp.net)
 
 
