@@ -33,13 +33,13 @@
 ## 参考文献
 [全书参考文献](https://raw.githubusercontent.com/HCPLab-SYSU/Book-of-MLM/main/Resources/Reference.pdf)
 
-## PPT课件（前两章已发布，其余章节将于近期发布，敬请期待！）
+## PPT课件（前三章已发布，其余章节将于近期发布，敬请期待！）
 
 [第一章 大模型全家桶](https://raw.githubusercontent.com/HCPLab-SYSU/Book-of-MLM/main/Resources/chapter1.pptx)      
 
 [第二章 多模态大模型核心技术](https://raw.githubusercontent.com/HCPLab-SYSU/Book-of-MLM/main/Resources/chapter2.pptx)       
 
-第三章 多模态基础模型    
+[第三章 多模态基础模型](https://raw.githubusercontent.com/HCPLab-SYSU/Book-of-MLM/main/Resources/chapter3.pptx)    
 
 第四章 多模态大模型的应用    
 
