@@ -52,6 +52,9 @@
 ## 其他资源：HCP-Diffusion统一代码框架
 [HCP-Diffusion](https://github.com/IrisRainbowNeko/HCP-Diffusion)
 
+## 其他资源：具身智能paper list
+[Embodied_AI_Paper_List](https://github.com/HCPLab-SYSU/Embodied_AI_Paper_List)
+
 ## 引用信息
 ```
 @book{liu2024bookofmlm,
