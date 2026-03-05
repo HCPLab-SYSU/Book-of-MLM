@@ -21,7 +21,7 @@
 <img src="Images/YangLiu.jpg"  width="200"/>
 </div>
 
-[**刘阳**](https://yangliu9208.github.io/)， 中山大学计算机学院副教授，中山大学人机物智能融合实验室（HCP-Lab）骨干成员，主持多项国家级、省部级科研项目，获2023广东省第三届计算机科学青年学术秀一等奖。
+[**刘阳**](https://yangliu9208.github.io/)， 中山大学计算机学院副教授，中山大学人机物智能融合实验室（HCP-Lab）骨干成员，主持多项国家级、省部级科研项目，获2023广东省第三届计算机科学青年学术秀一等奖，2025年度广东省学位与研究生教育学会优秀教学成果二等奖（1/2）。
 <div align=center>
 <img src="Images/LiangLin.jpg"  width="200"/>
 </div>
