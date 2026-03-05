@@ -34,7 +34,10 @@
 ## 参考文献
 [全书参考文献](https://raw.githubusercontent.com/HCPLab-SYSU/Book-of-MLM/main/Resources/Reference.pdf)
 
-## PPT课件
+## PPT课件（2026版，中山大学计算机学院本科生教学课件，每个ppt支持2学时，90分钟课程，供参考，如需ppt版本，请邮件联系）
+[Lecture 1 什么是多模态大模型](https://raw.githubusercontent.com/HCPLab-SYSU/Book-of-MLM/main/Resources/Lecture1-2026.pptx)   
+
+## PPT课件（2024版）
 
 [第一章 大模型全家桶](https://raw.githubusercontent.com/HCPLab-SYSU/Book-of-MLM/main/Resources/chapter1.pptx)      
 
