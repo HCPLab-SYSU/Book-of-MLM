@@ -34,9 +34,11 @@
 ## 参考文献
 [全书参考文献](https://raw.githubusercontent.com/HCPLab-SYSU/Book-of-MLM/main/Resources/Reference.pdf)
 
-## 2026版PPT课件，持续更新中（中山大学计算机学院本科生教学课件，每个ppt支持2学时，90分钟课程，供参考，如需ppt版本，请邮件联系）
-[Lecture 1 什么是多模态大模型](https://raw.githubusercontent.com/HCPLab-SYSU/Book-of-MLM/main/Resources/Lecture1-2026.pdf)       
-[Lecture 2 多模态大模型的发展与演进](https://raw.githubusercontent.com/HCPLab-SYSU/Book-of-MLM/main/Resources/Lecture2-2026.pdf)   
+## 2026版PPT课件（中山大学计算机学院本科生教学课件，每个ppt支持2学时，90分钟课程，供参考，如需ppt版本，请邮件联系）
+[Lecture 1 什么是多模态大模型（第一章）](https://raw.githubusercontent.com/HCPLab-SYSU/Book-of-MLM/main/Resources/Lecture1-2026.pdf)       
+[Lecture 2 多模态大模型的发展与演进（第一章）](https://raw.githubusercontent.com/HCPLab-SYSU/Book-of-MLM/main/Resources/Lecture2-2026.pdf)      
+[Lecture 3 从预训练到自监督（第二章）](https://raw.githubusercontent.com/HCPLab-SYSU/Book-of-MLM/main/Resources/Lecture3-2026.pdf)     
+持续更新中...
 
 ## 英文版书籍
 [Multimodal Large Models: A New Paradigm of Artificial Intelligence](https://link.springer.com/book/10.1007/978-981-95-4929-0)
