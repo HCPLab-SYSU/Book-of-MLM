@@ -34,7 +34,8 @@
 ## 参考文献
 [全书参考文献](https://raw.githubusercontent.com/HCPLab-SYSU/Book-of-MLM/main/Resources/Reference.pdf)
 
-## 2026版PPT课件（中山大学计算机学院本科生教学课件，如需ppt版本，请邮件联系）
+## 2026版教学PPT课件
+（中山大学计算机学院本科生教学课件，如需ppt版本，请邮件联系）    
 [Lecture 1 什么是多模态大模型（第一章）](https://raw.githubusercontent.com/HCPLab-SYSU/Book-of-MLM/main/Resources/Lecture1-2026.pdf)       
 [Lecture 2 多模态大模型的发展与演进（第一章）](https://raw.githubusercontent.com/HCPLab-SYSU/Book-of-MLM/main/Resources/Lecture2-2026.pdf)      
 [Lecture 3 从预训练到自监督（第二章）](https://raw.githubusercontent.com/HCPLab-SYSU/Book-of-MLM/main/Resources/Lecture3-2026.pdf)     
@@ -46,7 +47,7 @@ Lecture 6 微调、思维链与人类偏好对齐（第二章）
 ## 英文版书籍
 [Multimodal Large Models: A New Paradigm of Artificial Intelligence](https://link.springer.com/book/10.1007/978-981-95-4929-0)
 
-## PPT课件（2024版）
+## PPT课件（2024版，精简版）
 
 [第一章 大模型全家桶](https://raw.githubusercontent.com/HCPLab-SYSU/Book-of-MLM/main/Resources/chapter1.pptx)      
 
