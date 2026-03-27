@@ -35,7 +35,7 @@
 [全书参考文献](https://raw.githubusercontent.com/HCPLab-SYSU/Book-of-MLM/main/Resources/Reference.pdf)
 
 ## 2026版教学PPT课件
-（中山大学计算机学院本科生教学课件，如需ppt版本，请邮件联系）    
+（中山大学计算机学院本科生教学课件，如需ppt版本，请邮件liuy856@mail.sysu.edu.cn联系）    
 [Lecture 1 什么是多模态大模型（第一章）](https://raw.githubusercontent.com/HCPLab-SYSU/Book-of-MLM/main/Resources/Lecture1-2026.pdf)       
 [Lecture 2 多模态大模型的发展与演进（第一章）](https://raw.githubusercontent.com/HCPLab-SYSU/Book-of-MLM/main/Resources/Lecture2-2026.pdf)      
 [Lecture 3 从预训练到自监督（第二章）](https://raw.githubusercontent.com/HCPLab-SYSU/Book-of-MLM/main/Resources/Lecture3-2026.pdf)     
