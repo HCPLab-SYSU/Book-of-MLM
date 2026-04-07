@@ -16,18 +16,6 @@
 
 ### 购买链接：[京东官方旗舰店](https://item.jd.com/10100489294930.html)
 
-## 作者介绍
-<div align=center>
-<img src="Images/YangLiu.jpg"  width="200"/>
-</div>
-
-[**刘阳**](https://yangliu9208.github.io/)， 中山大学计算机学院副教授，中山大学人机物智能融合实验室（HCP-Lab）骨干成员，主持多项国家级、省部级科研项目，获2023广东省第三届计算机科学青年学术秀一等奖，2025年度广东省学位与研究生教育学会优秀教学成果二等奖（1/2）。
-<div align=center>
-<img src="Images/LiangLin.jpg"  width="200"/>
-</div>
-
-[**林倞**](http://www.linliang.net/)，人工智能领域国际著名学者（IEEE Fellow、IAPR Fellow、IET Fellow）、鹏城实验室多智能体与具身智能研究所所长、中山大学二级教授、国家杰出青年科学基金获得者、国家人工智能重大专项首席科学家。
-
 ## 目录
 [全书目录电子版](https://raw.githubusercontent.com/HCPLab-SYSU/Book-of-MLM/main/Resources/Catalogue.pdf)
 
@@ -67,6 +55,18 @@ Lecture 6 微调、思维链与人类偏好对齐（第二章）
 
 ## 其他资源：具身智能paper list
 [Embodied_AI_Paper_List](https://github.com/HCPLab-SYSU/Embodied_AI_Paper_List)
+
+## 作者介绍
+<div align=center>
+<img src="Images/YangLiu.jpg"  width="200"/>
+</div>
+
+[**刘阳**](https://yangliu9208.github.io/)， 中山大学计算机学院副教授，中山大学人机物智能融合实验室（HCP-Lab）骨干成员，主持多项国家级、省部级科研项目，获2023广东省第三届计算机科学青年学术秀一等奖，2025年度广东省学位与研究生教育学会优秀教学成果二等奖（1/2）。
+<div align=center>
+<img src="Images/LiangLin.jpg"  width="200"/>
+</div>
+
+[**林倞**](http://www.linliang.net/)，人工智能领域国际著名学者（IEEE Fellow、IAPR Fellow、IET Fellow）、鹏城实验室多智能体与具身智能研究所所长、中山大学二级教授、国家杰出青年科学基金获得者、国家人工智能重大专项首席科学家。
 
 ## 引用信息
 ```
