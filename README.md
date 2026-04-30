@@ -34,6 +34,8 @@
 [Lecture 8 多模态模型走向真实世界（第三章、第四章）](https://raw.githubusercontent.com/HCPLab-SYSU/Book-of-MLM/main/Resources/Lecture8-2026.pdf)     
 持续更新中...
 
+本课件已作为重庆大学、西北工业大学、山东大学、西安电子科技大学、华南师范大学等高校的教学PPT。   
+
 ## 英文版书籍
 [Multimodal Large Models: A New Paradigm of Artificial Intelligence](https://link.springer.com/book/10.1007/978-981-95-4929-0)
 
