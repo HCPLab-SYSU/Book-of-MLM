@@ -30,7 +30,8 @@
 [Lecture 4 自监督与对比学习（第二章）](https://raw.githubusercontent.com/HCPLab-SYSU/Book-of-MLM/main/Resources/Lecture4-2026.pdf)   
 [Lecture 5 提示学习与上下文学习（第二章）](https://raw.githubusercontent.com/HCPLab-SYSU/Book-of-MLM/main/Resources/Lecture5-2026.pdf)       
 [Lecture 6 思维链与价值对齐（第二章）](https://raw.githubusercontent.com/HCPLab-SYSU/Book-of-MLM/main/Resources/Lecture6-2026.pdf)      
-[Lecture 7 多模态基础模型（第三章）](https://raw.githubusercontent.com/HCPLab-SYSU/Book-of-MLM/main/Resources/Lecture7-2026.pdf)    
+[Lecture 7 多模态基础模型（第三章）](https://raw.githubusercontent.com/HCPLab-SYSU/Book-of-MLM/main/Resources/Lecture7-2026.pdf)      
+[Lecture 8 多模态模型走向真实世界（第三章、第四章）](https://raw.githubusercontent.com/HCPLab-SYSU/Book-of-MLM/main/Resources/Lecture8-2026.pdf)     
 持续更新中...
 
 ## 英文版书籍
