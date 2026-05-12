@@ -32,6 +32,7 @@
 [Lecture 6 思维链与价值对齐（第二章）](https://raw.githubusercontent.com/HCPLab-SYSU/Book-of-MLM/main/Resources/Lecture6-2026.pdf)      
 [Lecture 7 多模态基础模型（第三章）](https://raw.githubusercontent.com/HCPLab-SYSU/Book-of-MLM/main/Resources/Lecture7-2026.pdf)      
 [Lecture 8 多模态模型走向真实世界（第三章、第四章）](https://raw.githubusercontent.com/HCPLab-SYSU/Book-of-MLM/main/Resources/Lecture8-2026.pdf)     
+[Lecture 9 AIGC原理与应用（第三章、第四章）](https://raw.githubusercontent.com/HCPLab-SYSU/Book-of-MLM/main/Resources/Lecture9-2026.pdf)     
 持续更新中...
 
 本课件已成为同济大学、重庆大学、西北工业大学、山东大学、西安电子科技大学、华南师范大学等高校的教学PPT。   
