@@ -32,10 +32,15 @@
 [Lecture 6 思维链与价值对齐（第二章）](https://raw.githubusercontent.com/HCPLab-SYSU/Book-of-MLM/main/Resources/Lecture6-2026.pdf)      
 [Lecture 7 多模态基础模型（第三章）](https://raw.githubusercontent.com/HCPLab-SYSU/Book-of-MLM/main/Resources/Lecture7-2026.pdf)      
 [Lecture 8 多模态模型走向真实世界（第三章、第四章）](https://raw.githubusercontent.com/HCPLab-SYSU/Book-of-MLM/main/Resources/Lecture8-2026.pdf)     
-[Lecture 9 AIGC原理与应用（第四章）](https://raw.githubusercontent.com/HCPLab-SYSU/Book-of-MLM/main/Resources/Lecture9-2026.pdf)     
+[Lecture 9 AIGC原理与应用（第四章）](https://raw.githubusercontent.com/HCPLab-SYSU/Book-of-MLM/main/Resources/Lecture9-2026.pdf)   
+Lecture 10 具身智能基础理论与应用（第四章）    
+Lecture 11 多模态大模型前沿（第五章）    
+Lecture 12 大模型与因果推理（第五章）    
+Lecture 13 世界模型（第五章）    
+Lecture 14 智能体（第五章）    
 持续更新中...
 
-本课件已成为同济大学、重庆大学、西北工业大学、山东大学、西安电子科技大学、华南师范大学等高校的教学PPT。   
+本课件已成为同济大学、重庆大学、西北工业大学、山东大学、西安电子科技大学、华南师范大学等十余所高校的教学PPT。   
 
 ## 英文版书籍
 [Multimodal Large Models: A New Paradigm of Artificial Intelligence](https://link.springer.com/book/10.1007/978-981-95-4929-0)
