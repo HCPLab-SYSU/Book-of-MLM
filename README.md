@@ -32,8 +32,8 @@
 [Lecture 6 思维链与价值对齐（第二章）](https://raw.githubusercontent.com/HCPLab-SYSU/Book-of-MLM/main/Resources/Lecture6-2026.pdf)      
 [Lecture 7 多模态基础模型（第三章）](https://raw.githubusercontent.com/HCPLab-SYSU/Book-of-MLM/main/Resources/Lecture7-2026.pdf)      
 [Lecture 8 多模态模型走向真实世界（第三章、第四章）](https://raw.githubusercontent.com/HCPLab-SYSU/Book-of-MLM/main/Resources/Lecture8-2026.pdf)     
-[Lecture 9 AIGC原理与应用（第四章）](https://raw.githubusercontent.com/HCPLab-SYSU/Book-of-MLM/main/Resources/Lecture9-2026.pdf)   
-Lecture 10 具身智能基础理论与应用（第四章）    
+[Lecture 9 AIGC原理与应用（第四章）](https://raw.githubusercontent.com/HCPLab-SYSU/Book-of-MLM/main/Resources/Lecture9-2026.pdf)     
+[Lecture 10 具身智能基础理论与应用（第四章）](https://raw.githubusercontent.com/HCPLab-SYSU/Book-of-MLM/main/Resources/Lecture10-2026.pdf)      
 Lecture 11 多模态大模型前沿（第五章）    
 Lecture 12 大模型与因果推理（第五章）    
 Lecture 13 世界模型（第五章）    
