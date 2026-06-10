@@ -35,9 +35,7 @@
 [Lecture 9 AIGC原理与应用（第四章）](https://raw.githubusercontent.com/HCPLab-SYSU/Book-of-MLM/main/Resources/Lecture9-2026.pdf)     
 [Lecture 10 具身智能基础理论与应用（第四章）](https://raw.githubusercontent.com/HCPLab-SYSU/Book-of-MLM/main/Resources/Lecture10-2026.pdf)        
 [Lecture 11 多模态大模型空间推理（第五章）](https://raw.githubusercontent.com/HCPLab-SYSU/Book-of-MLM/main/Resources/Lecture11-2026.pdf)         
-Lecture 12 世界模型（第五章）      
-Lecture 13 智能体（第五章）       
-持续更新中...
+[Lecture 12 具身世界模型（第五章）](https://raw.githubusercontent.com/HCPLab-SYSU/Book-of-MLM/main/Resources/Lecture12-2026.pdf)      
 
 本课件已成为同济大学、重庆大学、西北工业大学、山东大学、西安电子科技大学、华南师范大学等十余所高校的教学PPT。   
 
