@@ -54,6 +54,9 @@
 
 [第五章 多模态大模型迈向AGI](https://raw.githubusercontent.com/HCPLab-SYSU/Book-of-MLM/main/Resources/chapter5.pptx)   
 
+## 其他资源：具身智能体开源操作系统PhyAgentOS
+[PhyAgentOS](https://github.com/PhyAgentOS/PhyAgentOS)
+
 ## 其他资源：视觉-语言因果推理开源框架CausalVLR
 [CausalVLR](https://github.com/HCPLab-SYSU/CausalVLR)
 
