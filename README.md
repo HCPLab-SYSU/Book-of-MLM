@@ -42,18 +42,6 @@
 ## 英文版书籍
 [Multimodal Large Models: A New Paradigm of Artificial Intelligence](https://link.springer.com/book/10.1007/978-981-95-4929-0)
 
-## PPT课件（2024版，精简版）
-
-[第一章 大模型全家桶](https://raw.githubusercontent.com/HCPLab-SYSU/Book-of-MLM/main/Resources/chapter1.pptx)      
-
-[第二章 多模态大模型核心技术](https://raw.githubusercontent.com/HCPLab-SYSU/Book-of-MLM/main/Resources/chapter2.pptx)       
-
-[第三章 多模态基础模型](https://raw.githubusercontent.com/HCPLab-SYSU/Book-of-MLM/main/Resources/chapter3.pptx)    
-
-[第四章 多模态大模型的应用](https://raw.githubusercontent.com/HCPLab-SYSU/Book-of-MLM/main/Resources/chapter4.pptx)    
-
-[第五章 多模态大模型迈向AGI](https://raw.githubusercontent.com/HCPLab-SYSU/Book-of-MLM/main/Resources/chapter5.pptx)   
-
 ## 其他资源：具身智能体开源操作系统PhyAgentOS
 [PhyAgentOS](https://github.com/PhyAgentOS/PhyAgentOS)
 
